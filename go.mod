@@ -1,1 +1,1 @@
-module https://github.com/mbict/envconfig
+module github.com/mbict/envconfig
