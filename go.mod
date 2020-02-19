@@ -1,1 +1,1 @@
-module github.com/kelseyhightower/envconfig
+module https://github.com/mbict/envconfig
